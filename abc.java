@@ -1,5 +1,5 @@
-import java.util.Scanner;
-MVR
+import java.util.MAVR
+MVR MAVR
 class CheckEvenOdd
 {
   public static void main(String args[])
