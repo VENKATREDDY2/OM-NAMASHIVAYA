@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+MVR
 class CheckEvenOdd
 {
   public static void main(String args[])
